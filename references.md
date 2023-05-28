@@ -1,3 +1,3 @@
 # References
 
-* octocat 1 😈
+* octocat's emoji is 😈
